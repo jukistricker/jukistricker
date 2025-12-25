@@ -9,9 +9,9 @@
   </a>
 </p>
 
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" style="vertical-align: top;">
+    <td width="50%" style="vertical-align: top; border: none;">
       <ul>
         <li>🌱 Like enjoying a cup of coffee, I'm finally working with <strong>Spring Boot</strong> ☕︎.</li>
         <li>📚 I have a passion for problem-solving.</li>
@@ -20,8 +20,8 @@
         <li>📫 Contact me: <strong>thanhthanhbg1@gmail.com</strong></li>
       </ul>
     </td>
-    <td width="50%" align="center">
-      <img src="puuung-study.gif" alt="Study GIF" width="100%">
+    <td width="50%" align="right" style="border: none;">
+      <img src="puuung-study.gif" alt="Study GIF" width="80%">
     </td>
   </tr>
 </table>
@@ -68,6 +68,7 @@
 </a>
 
 ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
