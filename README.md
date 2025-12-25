@@ -53,7 +53,7 @@
 
 
 ## ☕Support me:
-<p><a href="https://www.buymeacoffee.com/blablabla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="blablabla" /></a><a href="https://ko-fi.com/blablabla"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="blablabla" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/jukistricker"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="blablabla" /></a><a href="https://ko-fi.com/jukistricker"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="blablabla" /></a></p><br><br>
 
 ## ✨ GitHub Stats
 
@@ -68,6 +68,7 @@
 </a>
 
 ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
