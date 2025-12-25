@@ -9,20 +9,22 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="width: 50%; padding-right: 10px;">
-    <ul>
-      <li>🌱 Like enjoying a cup of coffee, I'm finally working with <strong>Spring Boot</strong> ☕︎.</li>
-      <li>📚 I have a passion for problem-solving.</li>
-      <li>🔭 Fact: I'm quite introverted🥹, but once I get to know you, I'm very friendly and talkative. </li>
-      <li>☕ I'm sleepy.</li>
-      <li>📫 Contact me: <strong>thanhthanhbg1@gmail.com</strong></li>
-    </ul>
-  </div>
-  <div style="width: 50%">
-    <img src="puuung-study.gif" alt="Study GIF" width="50%">
-  </div>
-</div>
+<table border="0">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <ul>
+        <li>🌱 Like enjoying a cup of coffee, I'm finally working with <strong>Spring Boot</strong> ☕︎.</li>
+        <li>📚 I have a passion for problem-solving.</li>
+        <li>🔭 Fact: I'm quite introverted🥹, but once I get to know you, I'm very friendly and talkative. </li>
+        <li>☕ I'm sleepy.</li>
+        <li>📫 Contact me: <strong>thanhthanhbg1@gmail.com</strong></li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="puuung-study.gif" alt="Study GIF" width="100%">
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Connect with me:
 
@@ -66,6 +68,7 @@
 </a>
 
 ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
