@@ -3,10 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jukistricker&label=Profile%20views&color=0e75b6&style=flat" alt="jukistricker" /> </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jukistricker&theme=dark_lover&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="jukistricker" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jukistricker&theme=dark_lover&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
@@ -68,6 +66,7 @@
 </a>
 
 ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
