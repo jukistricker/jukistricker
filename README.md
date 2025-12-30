@@ -78,7 +78,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jukistricker&theme=dark&hide_border=true&ring=3bafbf&fire=3bafbf&currStreakLabel=3bafbf&currStreakNum=3bafbf" alt="GitHub Streak" />
 </a> -->
 
-![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=00000000&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
