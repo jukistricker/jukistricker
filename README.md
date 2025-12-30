@@ -53,10 +53,25 @@
 
 ## ✨ GitHub Stats
 
-<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-  <img width="50%"  src="https://readme-stats-fabio-vicente.vercel.app/api?username=jukistricker&count_private=true&show_icons=true&theme=tokyonight" />
-  <img width="48%" height = "165px" src="https://github-readme-stats-academic.vercel.app/api/top-langs/?username=jukistricker&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1f2a44&title_color=3bafbf&text_color=ffffff&icon_color=3bafbf&langs_count=8" />
-</div>
+<table align="center" cellpadding="0" cellspacing="0" role="presentation">
+  <tr>
+    <td height="50%">
+      <a href="https://github.com/jukistricker">
+        <img width="100%"
+           src="https://readme-stats-fabio-vicente.vercel.app/api?username=jukistricker&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
+      </a>
+    </td>
+    <td height="50%">
+      <a href="https://github.com/jukistricker">
+         <img width="100%"
+           src="https://github-readme-stats-academic.vercel.app/api/top-langs/?username=jukistricker&layout=compact&theme=dark&langs_count=8&hide_border=true&bg_color=00000000">
+      </a>
+         </td>
+  </tr>
+</table>
+
+
+
 <br>
 
 <!-- <a href="https://git.io/streak-stats">
@@ -64,6 +79,7 @@
 </a> -->
 
 ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
