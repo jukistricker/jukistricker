@@ -65,7 +65,7 @@
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
   <img width="50%"  src="https://readme-stats-fabio-vicente.vercel.app/api?username=jukistricker&count_private=true&show_icons=true&theme=tokyonight" />
-  <img width="48%" height = "205px" src="https://github-readme-stats-academic.vercel.app/api/top-langs/?username=jukistricker&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1f2a44&title_color=3bafbf&text_color=ffffff&icon_color=3bafbf" />
+  <img width="48%" height = "180px" src="https://github-readme-stats-academic.vercel.app/api/top-langs/?username=jukistricker&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1f2a44&title_color=3bafbf&text_color=ffffff&icon_color=3bafbf" />
 </div>
 <br>
 
@@ -74,6 +74,7 @@
 </a> -->
 
 ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
