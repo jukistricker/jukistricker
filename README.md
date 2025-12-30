@@ -13,24 +13,14 @@
   </a>
 </p>
 
+## 👨🏻‍💻 About me:
+<img align="right" alt="GIF" height="200px" src="puuung-study.gif" />
 
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" style="vertical-align: top; border: none;">
-      <ul>
-        <li>🌱 Like enjoying a cup of coffee, I'm finally working with <strong>Spring Boot</strong> ☕︎.</li>
-        <li>📚 I have a passion for problem-solving.</li>
-        <li>🔭 Fact: I'm quite introverted🥹, but once I get to know you, I'm very friendly and talkative. </li>
-        <li>☕ I'm sleepy.</li>
-        <li>📫 Contact me: <strong>thanhthanhbg1@gmail.com</strong></li>
-      </ul>
-    </td>
-    <td width="50%" align="right" style="border: none;">
-      <img src="puuung-study.gif" alt="Study GIF" width="80%">
-    </td>
-  </tr>
-</table>
+- 🌱 Like enjoying a cup of coffee, I'm finally working with <strong>Spring Boot</strong> ☕︎.
+- 📚 I have a passion for problem-solving.
+- 🔭 Fact: I'm quite introverted🥹, but once I get to know you, I'm very friendly and talkative.
+- ☕ I'm sleepy.
+- 📫 Contact me: <strong>thanhthanhbg1@gmail.com</strong>
 
 ## 🌐 Connect with me:
 
@@ -65,7 +55,7 @@
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
   <img width="50%"  src="https://readme-stats-fabio-vicente.vercel.app/api?username=jukistricker&count_private=true&show_icons=true&theme=tokyonight" />
-  <img width="48%" height = "195px" src="https://github-readme-stats-academic.vercel.app/api/top-langs/?username=jukistricker&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1f2a44&title_color=3bafbf&text_color=ffffff&icon_color=3bafbf" />
+  <img width="48%" height = "197px" src="https://github-readme-stats-academic.vercel.app/api/top-langs/?username=jukistricker&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1f2a44&title_color=3bafbf&text_color=ffffff&icon_color=3bafbf" />
 </div>
 <br>
 
@@ -74,6 +64,7 @@
 </a> -->
 
 ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
