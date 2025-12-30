@@ -14,7 +14,7 @@
 </p>
 
 ## 👨🏻‍💻 About me:
-<img align="right" alt="GIF" height="200px" src="puuung-study.gif" />
+<img align="right" alt="GIF" height="200px" src="puuung-study.gif" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 - 🌱 Coffee cups run empty, stacks may change, but my backend journey goes on.
 - 📚 I have a passion for problem-solving.
@@ -79,6 +79,7 @@
 </a> -->
 
 ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
