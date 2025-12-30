@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jukistricker&label=Profile%20views&color=0e75b6&style=flat" alt="jukistricker" /> </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jukistricker&theme=dark_lover&no-bg=true&no-frame=true&margin-w=15&margin-h=15" />
+ <img src="https://hacked-github-stat-trophies.vercel.app/?username=jukistricker&theme=onedark&column=11&no-frame=true&no-bg=true&margin-w=2&margin-h=2" />
 </p>
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
@@ -56,7 +56,7 @@
 ## ✨ GitHub Stats
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jukistricker&theme=radical&include_all_commits=true&count_private=true&show_icons=true&bg_color=1f2a44&hide_border=true&hide_title=true&icon_color=blue&border_color=3bafbf" />
+  <img width="48%" src="https://readme-stats-fabio-vicente.vercel.app/api?username=jukistricker&count_private=true&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jukistricker&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1f2a44&title_color=3bafbf&text_color=ffffff&icon_color=3bafbf&hide_border=true" />
 </div>
 <br>
@@ -66,6 +66,7 @@
 </a>
 
 ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
