@@ -4,8 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jukistricker&label=Profile%20views&color=0e75b6&style=flat" alt="jukistricker" /> </p>
 
 <p align="center">
- <img src="https://hacked-github-stat-trophies.vercel.app/?username=jukistricker&theme=onedark&column=11&no-frame=true&no-bg=true&margin-w=2&margin-h=2" />
+  <a href="https://github.com/jukistricker">
+    <picture>
+      <source srcset="https://github-profile-trophy-ruddy.vercel.app/?username=jukistricker&theme=dark_lover&column=9&row=1&no-frame=true&no-bg=true&margin-w=2&margin-h=2">
+      <img alt="GitHub Trophies"
+           src="https://github-profile-trophy-ruddy.vercel.app/?username=jukistricker&theme=dark_lover&column=9&row=1&no-frame=true&no-bg=true&margin-w=2&margin-h=2">
+    </picture>
+  </a>
 </p>
+
+
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
@@ -56,16 +64,17 @@
 ## ✨ GitHub Stats
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-  <img width="48%" src="https://readme-stats-fabio-vicente.vercel.app/api?username=jukistricker&count_private=true&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jukistricker&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1f2a44&title_color=3bafbf&text_color=ffffff&icon_color=3bafbf&hide_border=true" />
+  <img width="50%"  src="https://readme-stats-fabio-vicente.vercel.app/api?username=jukistricker&count_private=true&show_icons=true&theme=tokyonight" />
+  <img width="48%" height = "205px" src="https://github-readme-stats-academic.vercel.app/api/top-langs/?username=jukistricker&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1f2a44&title_color=3bafbf&text_color=ffffff&icon_color=3bafbf" />
 </div>
 <br>
 
-<a href="https://git.io/streak-stats">
+<!-- <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jukistricker&theme=dark&hide_border=true&ring=3bafbf&fire=3bafbf&currStreakLabel=3bafbf&currStreakNum=3bafbf" alt="GitHub Streak" />
-</a>
+</a> -->
 
 ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
