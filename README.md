@@ -42,7 +42,7 @@
 </p>
 
 ## 🗄️Tech Stacks:
-[![My Skills](https://skillicons.dev/icons?i=java,cs,spring,hibernate,dotnet,angular,nodejs,react,express,tailwindcss,bootstrap,html,css,js,ts,scss,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,spring,hibernate,dotnet,angular,nodejs,react,express,tailwindcss,bootstrap,html,css,ts,scss,)](https://skillicons.dev)
 
 ## 🛠️Tool I use:
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,redis,kafka,git,npm,vite,github,idea,webstorm,vscode,visualstudio,postman)](https://skillicons.dev)
@@ -66,7 +66,7 @@
     <td height="50%">
       <a href="https://github.com/jukistricker">
          <img width="100%"
-           src="https://github-readme-stats-academic.vercel.app/api/top-langs/?username=jukistricker&layout=compact&theme=dark&langs_count=8&hide_border=true&bg_color=00000000">
+           src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=jukistricker&layout=compact&theme=dark&langs_count=8&hide_border=true&bg_color=00000000">
       </a>
          </td>
   </tr>
@@ -82,6 +82,7 @@
 
 ## 📊 Github Activity Graph:
 ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=00000000&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
