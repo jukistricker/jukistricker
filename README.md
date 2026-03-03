@@ -5,11 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/jukistricker">
-    <picture>
-      <source srcset="https://github-profile-trophy-ruddy.vercel.app/?username=jukistricker&theme=dark_lover&column=9&row=1&no-frame=true&no-bg=true&margin-w=2&margin-h=2">
       <img alt="GitHub Trophies"
            src="https://github-trophies.vercel.app/?username=jukistricker&theme=dark_lover&column=9&row=1&no-frame=true&no-bg=true&margin-w=2&margin-h=2">
-    </picture>
   </a>
 </p>
 
@@ -82,6 +79,7 @@
 
 ## 📊 Github Activity Graph:
 ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=00000000&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
 
 
 
