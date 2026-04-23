@@ -38,14 +38,9 @@
 <!-- <a href="https://discord.gg/juki0811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="blablabla" height="30" width="40" /></a> -->
 <!-- </p> -->
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td><a href="https://www.linkedin.com/in/th%C3%A0nh-d%C6%B0%C6%A1ng-ng%E1%BB%8Dc-64ab3429b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
-    <td><a href="https://www.facebook.com/thanh.duong.546123/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a></td>
-    <td><a href="https://www.instagram.com/thanh_5400/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></td>
-    <td><a href="https://x.com/jukistricker" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td>
-  </tr>
-</table>
+<div align="left">
+  <a href="mailto:ngdatuananh@gmail.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20201017164718%21Gmail_icon_%282020%29.svg" height="38" alt="email logo" hspace="8" /></a><a href="https://www.linkedin.com/in/zennomi/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="linkedin logo" hspace="8" /></a><a href="http://t.me/zennomi" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" alt="telegram logo" hspace="8" /></a><a href="https://discordapp.com/users/371992703140956416" target="blank"><img src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="40" alt="discord logo" hspace="8" /></a><a href="https://web.facebook.com/ngdatuananh/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" alt="facebook logo" hspace="8" /></a>
+</div>
 
 ## 🗄️Tech Stacks:
 [![My Skills](https://skillicons.dev/icons?i=java,cs,spring,hibernate,dotnet,angular,nodejs,react,express,tailwindcss,bootstrap,html,css,ts,scss,)](https://skillicons.dev)
