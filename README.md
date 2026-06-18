@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi 👋, I'm Thanh</h1>
+<!--﻿<h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">I'm learning and growing as a backend developer ☕︎.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jukistricker&label=Profile%20views&color=0e75b6&style=flat" alt="jukistricker" /> </p>
@@ -10,16 +10,16 @@
   </a>
 </p>
 
-## 👨🏻‍💻 About me:
-<img align="right" alt="GIF" height="190px" src="puuung-study.gif" />
-
+<!-- ## 👨🏻‍💻 About me: -->
+<!-- <img align="right" alt="GIF" height="190px" src="puuung-study.gif" /> -->
+<!-- 
 - 🌱 Coffee cups run empty, stacks may change, but my backend journey goes on.
 - 📚 I have a passion for problem-solving.
 - 🔭 Fact: I'm quite introverted🥹, but once I get to know you, I'm very friendly and talkative.
 - ☕ I'm sleepy.
-- 📫 Contact me: <strong>thanhthanhbg1@gmail.com</strong>
+- 📫 Contact me: <strong>thanhthanhbg1@gmail.com</strong> -->
 
-## 🌐 Connect with me:
+<!-- ## 🌐 Connect with me: -->
 
 <!-- <p> -->
 <!-- <a href="https://codepen.io/blablabla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="blablabla" height="30" width="40" /></a> -->
@@ -38,25 +38,25 @@
 <!-- <a href="https://discord.gg/juki0811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="blablabla" height="30" width="40" /></a> -->
 <!-- </p> -->
 
-<div align="left">
+<!-- <div align="left">
   <a href="mailto:thanhthanhbg1@gmail.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20201017164718%21Gmail_icon_%282020%29.svg" height="38" alt="email logo" hspace="8" /></a><a href="https://www.linkedin.com/in/th%C3%A0nh-d%C6%B0%C6%A1ng-ng%E1%BB%8Dc-64ab3429b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="linkedin logo" hspace="8" /></a><a href="https://discordapp.com/users/juki0811" target="blank"><img src="discord-icon-svgrepo-com.svg" height="40" alt="discord logo" hspace="8" /></a><a href="http://t.me/jukistricker" target="blank"><img src="telegram-svgrepo-com.svg" height="40" alt="telegram logo" hspace="8" /></a><a href="https://www.facebook.com/thanh.duong.546123/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" alt="facebook logo" hspace="8" /></a>
-</div>
+</div> -->
 
-## 🗄️Tech Stacks:
-[![My Skills](https://skillicons.dev/icons?i=java,cs,spring,hibernate,dotnet,angular,nodejs,react,express,tailwindcss,bootstrap,html,css,ts,scss,)](https://skillicons.dev)
+<!-- ## 🗄️Tech Stacks:
+[![My Skills](https://skillicons.dev/icons?i=java,cs,spring,hibernate,dotnet,angular,nodejs,react,express,tailwindcss,bootstrap,html,css,ts,scss,)](https://skillicons.dev) -->
 
-## 🛠️Tool I use:
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,redis,kafka,git,npm,vite,github,idea,webstorm,vscode,visualstudio,postman)](https://skillicons.dev)
+<!-- ## 🛠️Tool I use: -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,redis,kafka,git,npm,vite,github,idea,webstorm,vscode,visualstudio,postman)](https://skillicons.dev) -->
 
 
-## ☕Support me:
+<!-- ## ☕Support me:
 <p><a href="https://buymeacoffee.com/jukistricker"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="blablabla" /></a>
   <!-- <a href="https://ko-fi.com/jukistricker"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="blablabla" /></a> -->
-</p><br><br>
+<!-- </p><br><br> -->
 
-## ✨ GitHub Stats
+<!-- ## ✨ GitHub Stats -->
 
-<table align="center" cellpadding="0" cellspacing="0" role="presentation">
+<!-- <table align="center" cellpadding="0" cellspacing="0" role="presentation">
   <tr>
     <td height="50%">
       <a href="https://github.com/jukistricker">
@@ -71,46 +71,15 @@
       </a>
          </td>
   </tr>
-</table>
+</table> -->
 
 
 
-<br>
+<!-- <br> -->
 
 <!-- <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jukistricker&theme=dark&hide_border=true&ring=3bafbf&fire=3bafbf&currStreakLabel=3bafbf&currStreakNum=3bafbf" alt="GitHub Streak" />
 </a> -->
 
-## 📊 Github Activity Graph:
-![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=00000000&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- ## 📊 Github Activity Graph: -->
+<!-- ![Juki's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jukistricker&custom_title=Juki%27s%20GitHub%20Activity%20Graph&bg_color=00000000&color=3bafbf&line=3bafbf&point=3bafbf&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true) -->
